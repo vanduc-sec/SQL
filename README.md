@@ -9,3 +9,5 @@
 5. [EMPLOYEES](<EMPLOYEES.md>)
 6. [[NORTHWIND] BÀI 1](<[NORTHWIND] BÀI 1.md>)
 7. [[NORTHWIND] BÀI 2](<[NORTHWIND] BÀI 2.md>)
+8. [ĐẤT NƯỚC LỚN](<ĐẤT NƯỚC LỚN.md>)
+9. [[NORTHWIND V2] BÀI 1](<[NORTHWIND V2] BÀI 1.md>)
