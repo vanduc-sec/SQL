@@ -12,3 +12,5 @@
 8. [ĐẤT NƯỚC LỚN](<ĐẤT NƯỚC LỚN.md>)
 9. [[NORTHWIND V2] BÀI 1](<[NORTHWIND V2] BÀI 1.md>)
 10. [[NORTHWIND V3] BÀI 14](<[NORTHWIND V3] BÀI 14.md>)
+11. [[NORTHWIND] BÀI 3](<[NORTHWIND] BÀI 3.md>)
+12. [[NORTHWIND V3] BÀI 9](<[NORTHWIND V3] BÀI 9.md>)
