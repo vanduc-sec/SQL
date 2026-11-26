@@ -1,3 +1,5 @@
 # SELECT
 
-1. [SQL132 Làm quen với LearnSQL](<SQL132 Làm quen với LearnSQL.md>)
+| [SQL094](<Consecutive number.md>) | [Consecutive number](<Consecutive number.md>) |
+| [SQL132](<Làm quen với LearnSQL.md>) | [Làm quen với LearnSQL](<Làm quen với LearnSQL.md>) |
+

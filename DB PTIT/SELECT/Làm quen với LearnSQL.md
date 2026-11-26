@@ -4,7 +4,7 @@ Hi! Mình rất vui khi được đóng góp một chút gì đó để hỗ tr�
 
 Hôm nay chúng ta sẽ khám phá bảng **learnsql** – nơi chứa tất cả những hướng dẫn hay ho giúp bạn làm quen với LearnSQL nhé 😊
 
-![image.png](SQL132%20L%C3%A0m%20quen%20v%E1%BB%9Bi%20LearnSQL/image.png)
+![image.png](L%C3%A0m%20quen%20v%E1%BB%9Bi%20LearnSQL/image.png)
 
 Nhiệm vụ của bạn: *lấy ra hướng dẫn từ bảng learnsql :>*
 
