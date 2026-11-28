@@ -5,5 +5,6 @@
 | [SQL099](<Find custom referee.md>) | [Find custom referee](<Find custom referee.md>) |
 | [SQL100](<Recycle and low fat product.md>) | [Recycle and low fat product](<Recycle and low fat product.md>) |
 | [SQL102](<Rising temperature.md>) | [RRising temperature](<Rising temperature.md>) |
+| [SQL103](<Liệt kê 2 khóa học theo tên giảng viên (sắp xếp theo tên giảm dần).md>) | [Liệt kê 2 khóa học theo tên giảng viên (sắp xếp theo tên giảm dần)](<Liệt kê 2 khóa học theo tên giảng viên (sắp xếp theo tên giảm dần).md>) |
 | [SQL132](<Làm quen với LearnSQL.md>) | [Làm quen với LearnSQL](<Làm quen với LearnSQL.md>) |
 
