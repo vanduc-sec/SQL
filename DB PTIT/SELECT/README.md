@@ -9,5 +9,6 @@
 | [SQL104](<Tìm các lớp học đang được mở.md>) | [Tìm các lớp học đang được mở](<Tìm các lớp học đang được mở.md>) |
 | [SQL106](<Tìm firstname của Instructor.md>) | [Tìm firstname của Instructor](<Tìm firstname của Instructor.md>) |
 | [SQL107](<Các khóa học cấp độ 400 (4xx) của CSE đang mở là gì.md>) | [Các khóa học cấp độ 400 (4xx) của CSE đang mở là gì](<Các khóa học cấp độ 400 (4xx) của CSE đang mở là gì.md>) |
+| [SQL108](<Tìm lớp học của thầy Levy.md>) | [Tìm lớp học của thầy Levy](<Tìm lớp học của thầy Levy.md>) |
 | [SQL132](<Làm quen với LearnSQL.md>) | [Làm quen với LearnSQL](<Làm quen với LearnSQL.md>) |
 
